@@ -1,1 +1,33 @@
 # vs-claude
+
+## Principles
+
+1. WYDIWYG: What you diff is what you get.
+2. One commit per prompt.
+3. One foler per intent/thread/path/conversational fork.
+4. One devcontainer per folder.
+5. 
+
+
+## In-progress Ideas
+
+1. Git worktree
+2. VS Code devcontainer
+
+## Future Ideas
+
+1. micromamba and multi-stage docker architecture
+2. Fine-grained GitHub tokens
+3. MCP Support (managed & self-hosted)
+
+## Referenences
+
+1. [@dtunai](https://medium.com/@dtunai): [Mastering Git Worktrees with Claude Code for Parallel Development Workflow](https://medium.com/@dtunai/mastering-git-worktrees-with-claude-code-for-parallel-development-workflow-41dc91e645fe)
+2. [timsh.org](https://timsh.org): [Switching to Claude Code + VSCode inside Docker](https://timsh.org/claude-inside-docker/)
+3. [@brett_4870](https://medium.com/@brett_4870): [Building a Secure AI Development Environment: Containerized Claude Code + MCP Integration](https://medium.com/@brett_4870/building-a-secure-ai-development-environment-containerized-claude-code-mcp-integration-e2129fe3af5a)
+4. TODO: [claude-code-js](https://github.com/s-soroosh/claude-code-js)
+5. TODO: https://medium.com/@dtunai/mastering-git-worktrees-with-claude-code-for-parallel-development-workflow-41dc91e645fe
+6. TODO: https://docs.anthropic.com/en/docs/claude-code/github-actions
+7. TODO: https://github.com/smithclay/claudetainer
+8. TODO: https://docs.anthropic.com/en/docs/claude-code/common-workflows
+9. TODO: https://docs.anthropic.com/en/docs/claude-code/devcontainer
