@@ -22,12 +22,11 @@
 
 ## Referenences
 
-1. [@dtunai](https://medium.com/@dtunai): [Mastering Git Worktrees with Claude Code for Parallel Development Workflow](https://medium.com/@dtunai/mastering-git-worktrees-with-claude-code-for-parallel-development-workflow-41dc91e645fe)
-2. [timsh.org](https://timsh.org): [Switching to Claude Code + VSCode inside Docker](https://timsh.org/claude-inside-docker/)
-3. [@brett_4870](https://medium.com/@brett_4870): [Building a Secure AI Development Environment: Containerized Claude Code + MCP Integration](https://medium.com/@brett_4870/building-a-secure-ai-development-environment-containerized-claude-code-mcp-integration-e2129fe3af5a)
-4. TODO: [claude-code-js](https://github.com/s-soroosh/claude-code-js)
-5. TODO: https://medium.com/@dtunai/mastering-git-worktrees-with-claude-code-for-parallel-development-workflow-41dc91e645fe
-6. TODO: https://docs.anthropic.com/en/docs/claude-code/github-actions
-7. TODO: https://github.com/smithclay/claudetainer
-8. TODO: https://docs.anthropic.com/en/docs/claude-code/common-workflows
-9. TODO: https://docs.anthropic.com/en/docs/claude-code/devcontainer
+1. [anthropic](https://docs.anthropic.com/en/home): [Claude-code: Common Workflows](https://docs.anthropic.com/en/docs/claude-code/common-workflows)
+2. [anthropic](https://docs.anthropic.com/en/home): [Claude-code: Development containers](https://docs.anthropic.com/en/docs/claude-code/devcontainer)
+3. [@dtunai](https://medium.com/@dtunai): [Mastering Git Worktrees with Claude Code for Parallel Development Workflow](https://medium.com/@dtunai/mastering-git-worktrees-with-claude-code-for-parallel-development-workflow-41dc91e645fe)
+4. [timsh.org](https://timsh.org): [Switching to Claude Code + VSCode inside Docker](https://timsh.org/claude-inside-docker/)
+5. [@brett_4870](https://medium.com/@brett_4870): [Building a Secure AI Development Environment: Containerized Claude Code + MCP Integration](https://medium.com/@brett_4870/building-a-secure-ai-development-environment-containerized-claude-code-mcp-integration-e2129fe3af5a)
+6. TODO: [claude-code-js](https://github.com/s-soroosh/claude-code-js)
+7. TODO: https://docs.anthropic.com/en/docs/claude-code/github-actions
+8. TODO: https://github.com/smithclay/claudetainer
