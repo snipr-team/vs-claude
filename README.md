@@ -30,3 +30,5 @@
 6. TODO: [claude-code-js](https://github.com/s-soroosh/claude-code-js)
 7. TODO: https://docs.anthropic.com/en/docs/claude-code/github-actions
 8. TODO: https://github.com/smithclay/claudetainer
+9. TODO: https://conductor.build/
+
