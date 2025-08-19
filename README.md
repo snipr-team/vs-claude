@@ -27,8 +27,10 @@
 3. [@dtunai](https://medium.com/@dtunai): [Mastering Git Worktrees with Claude Code for Parallel Development Workflow](https://medium.com/@dtunai/mastering-git-worktrees-with-claude-code-for-parallel-development-workflow-41dc91e645fe)
 4. [timsh.org](https://timsh.org): [Switching to Claude Code + VSCode inside Docker](https://timsh.org/claude-inside-docker/)
 5. [@brett_4870](https://medium.com/@brett_4870): [Building a Secure AI Development Environment: Containerized Claude Code + MCP Integration](https://medium.com/@brett_4870/building-a-secure-ai-development-environment-containerized-claude-code-mcp-integration-e2129fe3af5a)
-6. TODO: [claude-code-js](https://github.com/s-soroosh/claude-code-js)
-7. TODO: https://docs.anthropic.com/en/docs/claude-code/github-actions
-8. TODO: https://github.com/smithclay/claudetainer
-9. TODO: https://conductor.build/
+6. [s-soroosh](https://github.com/s-soroosh): [claude-code-js](https://github.com/s-soroosh/claude-code-js)
+7. [Anthropic](https://docs.anthropic.com/en/home): [Claude Code GitHub Actions](https://docs.anthropic.com/en/docs/claude-code/github-actions)
+8. [smithclay](https://github.com/smithclay): [Opinionated developer workflows for using Claude Code anywhere—even your phone](https://github.com/smithclay/claudetainer)
+9. [conductor.build](https://conductor.build/): [Run a bunch of Claude Codes in parallel.](https://conductor.build/)
+
+
 
